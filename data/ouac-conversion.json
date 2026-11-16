@@ -1,0 +1,299 @@
+{
+  "scale_3_percentage": [
+    {
+      "min": 90,
+      "max": 100,
+      "gpa": 4.0
+    },
+    {
+      "min": 85,
+      "max": 89,
+      "gpa": 3.9
+    },
+    {
+      "min": 80,
+      "max": 84,
+      "gpa": 3.7
+    },
+    {
+      "min": 77,
+      "max": 79,
+      "gpa": 3.3
+    },
+    {
+      "min": 73,
+      "max": 76,
+      "gpa": 3.0
+    },
+    {
+      "min": 70,
+      "max": 72,
+      "gpa": 2.7
+    },
+    {
+      "min": 67,
+      "max": 69,
+      "gpa": 2.3
+    },
+    {
+      "min": 63,
+      "max": 66,
+      "gpa": 2.0
+    },
+    {
+      "min": 60,
+      "max": 62,
+      "gpa": 1.7
+    },
+    {
+      "min": 57,
+      "max": 59,
+      "gpa": 1.3
+    },
+    {
+      "min": 53,
+      "max": 56,
+      "gpa": 1.0
+    },
+    {
+      "min": 50,
+      "max": 52,
+      "gpa": 0.7
+    },
+    {
+      "min": 0.0,
+      "max": 49,
+      "gpa": 0.0
+    }
+  ],
+  "scale_4_percentage": [
+    {
+      "min": 93,
+      "max": 100,
+      "gpa": 4.0
+    },
+    {
+      "min": 84,
+      "max": 92,
+      "gpa": 3.9
+    },
+    {
+      "min": 75,
+      "max": 83,
+      "gpa": 3.7
+    },
+    {
+      "min": 72,
+      "max": 74,
+      "gpa": 3.3
+    },
+    {
+      "min": 69,
+      "max": 71,
+      "gpa": 3.0
+    },
+    {
+      "min": 66,
+      "max": 68,
+      "gpa": 2.7
+    },
+    {
+      "min": 64,
+      "max": 65,
+      "gpa": 2.3
+    },
+    {
+      "min": 62,
+      "max": 63,
+      "gpa": 2.0
+    },
+    {
+      "min": 60,
+      "max": 61,
+      "gpa": 1.7
+    },
+    {
+      "min": 56,
+      "max": 59,
+      "gpa": 1.3
+    },
+    {
+      "min": 53,
+      "max": 55,
+      "gpa": 1.0
+    },
+    {
+      "min": 50,
+      "max": 52,
+      "gpa": 0.7
+    },
+    {
+      "min": 0.0,
+      "max": 49,
+      "gpa": 0.0
+    }
+  ],
+  "scale_7_letter": {
+    "A+": 4.0,
+    "A": 3.9,
+    "A-": 3.7,
+    "B+": 3.3,
+    "B": 3.0,
+    "B-": 2.7,
+    "C+": 2.3,
+    "C": 2.0,
+    "C-": 1.7,
+    "D+": 1.3,
+    "D": 1.0,
+    "D-": 0.7,
+    "F": 0.0
+  },
+  "scale_9_letter": {
+    "A+": 4.0,
+    "A": 3.8,
+    "B+": 3.3,
+    "B": 3.0,
+    "C+": 2.3,
+    "C": 2.0,
+    "D+": 1.3,
+    "D": 1.0,
+    "F": 0.0
+  },
+  "universities": [
+    {
+      "name": "Algoma University",
+      "ouac_scales": [
+        3
+      ]
+    },
+    {
+      "name": "Brock University",
+      "ouac_scales": [
+        3
+      ]
+    },
+    {
+      "name": "Carleton University",
+      "ouac_scales": [
+        7
+      ]
+    },
+    {
+      "name": "University of Guelph",
+      "ouac_scales": [
+        3
+      ]
+    },
+    {
+      "name": "Lakehead University",
+      "ouac_scales": [
+        3
+      ]
+    },
+    {
+      "name": "Laurentian University",
+      "ouac_scales": [
+        7
+      ]
+    },
+    {
+      "name": "McMaster University",
+      "ouac_scales": [
+        7
+      ]
+    },
+    {
+      "name": "Nipissing University",
+      "ouac_scales": [
+        3
+      ]
+    },
+    {
+      "name": "OCAD University",
+      "ouac_scales": [
+        3
+      ]
+    },
+    {
+      "name": "Ontario Tech University",
+      "ouac_scales": [
+        7
+      ]
+    },
+    {
+      "name": "University of Ottawa",
+      "ouac_scales": [
+        7
+      ]
+    },
+    {
+      "name": "Queen's University",
+      "ouac_scales": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "Royal Military College of Canada",
+      "ouac_scales": [
+        4,
+        7
+      ]
+    },
+    {
+      "name": "University of Toronto",
+      "ouac_scales": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "Toronto Metropolitan University",
+      "ouac_scales": [
+        7
+      ]
+    },
+    {
+      "name": "Trent University",
+      "ouac_scales": [
+        3
+      ]
+    },
+    {
+      "name": "University of Waterloo",
+      "ouac_scales": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "Western University",
+      "ouac_scales": [
+        3
+      ]
+    },
+    {
+      "name": "Wilfrid Laurier University",
+      "ouac_scales": [
+        7
+      ]
+    },
+    {
+      "name": "University of Windsor",
+      "ouac_scales": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "York University",
+      "ouac_scales": [
+        9
+      ]
+    }
+  ],
+  "notes": {
+    "rounding": "OUAC ranges use whole-number percentages; 0.5 rounds up.",
+    "course_weights": "OMSAS-style weighting: full-year course = 2, half-year = 1."
+  }
+}
